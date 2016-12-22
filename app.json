@@ -1,0 +1,15 @@
+{
+  "name": "shadowsocks",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
